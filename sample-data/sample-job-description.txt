@@ -1,0 +1,53 @@
+Senior Frontend Developer
+
+We are looking for an experienced Senior Frontend Developer to join our growing engineering team.
+
+Job Title: Senior Frontend Developer
+Location: San Francisco, CA / Remote
+Experience: 5+ years
+
+Required Skills:
+- JavaScript/TypeScript
+- React or Vue.js
+- HTML5, CSS3
+- REST APIs
+- Git version control
+- Responsive design
+- Agile/Scrum methodology
+
+Good to Have:
+- Node.js
+- GraphQL
+- Testing frameworks (Jest, Cypress)
+- CI/CD experience
+- AWS or cloud platforms
+- Docker
+- State management (Redux, Zustand)
+
+Requirements:
+- Bachelor's degree in Computer Science or related field
+- 5+ years of professional frontend development experience
+- Strong portfolio of web applications
+- Experience leading technical projects
+- Excellent communication skills
+- Ability to mentor junior developers
+
+Responsibilities:
+- Design and develop responsive web applications
+- Collaborate with designers and backend developers
+- Write clean, maintainable, and well-documented code
+- Conduct code reviews and mentor team members
+- Participate in architectural decisions
+- Optimize application performance
+- Stay updated with latest frontend technologies
+
+What We Offer:
+- Competitive salary ($120k-$160k)
+- Health, dental, and vision insurance
+- 401k matching
+- Flexible work arrangements
+- Professional development budget
+- Modern tech stack and tools
+
+About Us:
+We're a fast-growing SaaS company building tools that help businesses streamline their operations. Our engineering team values innovation, collaboration, and continuous learning.

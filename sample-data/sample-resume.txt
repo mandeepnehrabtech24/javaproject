@@ -1,0 +1,97 @@
+JOHN DOE
+Senior Frontend Developer
+
+Contact:
+Email: john.doe@email.com
+Phone: (555) 123-4567
+Location: San Francisco, CA
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+Portfolio: johndoe.dev
+
+PROFESSIONAL SUMMARY
+Experienced frontend developer with 6+ years building scalable web applications. Specialized in React, TypeScript, and modern frontend architectures. Passionate about user experience and performance optimization.
+
+SKILLS
+Technical Skills:
+- JavaScript, TypeScript, HTML5, CSS3
+- React, Redux, Next.js
+- Node.js, Express
+- REST APIs, GraphQL
+- Git, GitHub Actions, CI/CD
+- Jest, React Testing Library, Cypress
+- Webpack, Vite
+- Tailwind CSS, styled-components
+- AWS, Docker
+
+Soft Skills:
+- Team Leadership
+- Problem Solving
+- Communication
+- Agile/Scrum
+- Code Reviews
+
+WORK EXPERIENCE
+
+Senior Frontend Developer
+Tech Solutions Inc. | Jan 2021 - Present | San Francisco, CA
+- Led frontend development for a B2B SaaS platform serving 50k+ users
+- Architected and implemented component library used across 5 products
+- Reduced page load time by 40% through code splitting and lazy loading
+- Mentored 3 junior developers and conducted weekly code reviews
+- Collaborated with design team to implement pixel-perfect UI/UX
+- Technologies: React, TypeScript, Redux, GraphQL, AWS
+
+Frontend Developer
+StartupXYZ | Jun 2019 - Dec 2020 | Remote
+- Developed responsive web applications using React and modern JavaScript
+- Implemented real-time features using WebSockets
+- Built reusable UI components following atomic design principles
+- Improved test coverage from 30% to 85%
+- Participated in sprint planning and agile ceremonies
+- Technologies: React, JavaScript, Jest, REST APIs
+
+Junior Frontend Developer
+Digital Agency | Jan 2018 - May 2019 | San Francisco, CA
+- Created landing pages and marketing websites for clients
+- Converted Figma designs to responsive HTML/CSS/JavaScript
+- Optimized websites for SEO and performance
+- Fixed bugs and implemented new features
+- Technologies: HTML, CSS, JavaScript, jQuery, WordPress
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2014 - 2017
+GPA: 3.7/4.0
+Relevant Coursework: Web Development, Data Structures, Algorithms, Software Engineering
+
+PROJECTS
+
+E-Commerce Platform
+- Built full-stack e-commerce application with React and Node.js
+- Implemented payment processing with Stripe
+- Deployed on AWS with CI/CD pipeline
+- Tech Stack: React, Node.js, MongoDB, AWS, Docker
+
+Real-Time Chat Application
+- Developed real-time messaging app using WebSockets
+- Implemented user authentication and authorization
+- Built responsive UI with Material-UI
+- Tech Stack: React, Socket.io, Express, PostgreSQL
+
+Open Source Contributions
+- Active contributor to several React component libraries
+- 500+ GitHub stars on personal projects
+- Regular participant in hackathons
+
+CERTIFICATIONS
+- AWS Certified Developer - Associate (2022)
+- React Advanced Certification - Frontend Masters (2021)
+- JavaScript Algorithms and Data Structures - freeCodeCamp (2020)
+
+ACHIEVEMENTS
+- Won "Best UI/UX" award at TechCon Hackathon 2022
+- Speaker at ReactConf 2023 - "Building Performant React Apps"
+- Reduced company's AWS costs by 30% through optimization
+- Increased team velocity by 25% through process improvements
